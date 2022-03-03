@@ -44,12 +44,12 @@ The Relational Schema of our Database:
 4) Set up the database
   - open xampp and click on start besides mySql.
   - paste the following links in your browser address bar in the given order:
-    . http://localhost/Library-Management-system/config/createDB.php
-    . http://localhost/Library-Management-system/config/connectDB.php
-    . http://localhost/Library-Management-system/config/createDB.php
-    . http://localhost/Library-Management-system/config/createTable.php
-    . http://localhost/Library-Management-system/config/alterTables.php
-    . http://localhost/Library-Management-system/config/insertValues.php
+    - http://localhost/Library-Management-system/config/createDB.php
+    - http://localhost/Library-Management-system/config/connectDB.php
+    - http://localhost/Library-Management-system/config/createDB.php
+    - http://localhost/Library-Management-system/config/createTable.php
+    - http://localhost/Library-Management-system/config/alterTables.php
+    - http://localhost/Library-Management-system/config/insertValues.php
   - you can open xampp, and see the database structure and the data inside the database
 6) Open your browser and paste this in the address bar : http://localhost/Library-Management-system/index.php
 7) you are Ready to Go 🥳🎉
