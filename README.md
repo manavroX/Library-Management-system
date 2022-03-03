@@ -39,7 +39,7 @@ The Relational Schema of our Database:
 
 ## How To Set Up
 1) Install xampp
-2) copy the folder in xampp/htdocs/Library-Management-system
+2) copy the folder in xampp/htdocs/
 3) open xampp and click on start besides apache.
 4) Set up the database
   - open xampp and click on start besides mySql.
